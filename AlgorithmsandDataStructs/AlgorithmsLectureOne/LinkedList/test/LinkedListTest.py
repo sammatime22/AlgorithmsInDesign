@@ -15,6 +15,7 @@ def list_builder_factory(elements):
 
 class LinkedListTests(unittest.TestCase):
 
+
     """
      This will test the user's defined 'append_element' method
     """
